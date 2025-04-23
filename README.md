@@ -1,5 +1,5 @@
-# Murfreesboro-Map
-# Murfreesboro POI Map
+
+# Murfreesboro  Map
 
 This is a simple web application built using [Leaflet.js](https://leafletjs.com/) to display a point of interest (POI) on a map centered on Murfreesboro, Tennessee.
 
